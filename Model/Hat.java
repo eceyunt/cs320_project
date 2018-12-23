@@ -2,6 +2,7 @@ package Model;
 
 
 
+
 public class Hat extends Product {
 
     private static final int UNIT_TYPE = 2;

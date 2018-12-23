@@ -1,6 +1,7 @@
 package Model;
 
 
+
 public class Jacket extends Product {
 
     private static final int UNIT_TYPE = 2;

@@ -2,6 +2,7 @@ package Model;
 
 
 
+
 public class Account {
     private double balance;
 
